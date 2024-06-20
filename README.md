@@ -1,6 +1,6 @@
 # Travelable Area Boundary Dataset
 
-[中文版](./README.md)
+[中文版](./README_ZH.md)
 
 ### File Structures
 ```

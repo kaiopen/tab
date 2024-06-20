@@ -1,6 +1,6 @@
 # 可通行区域边缘数据集
 
-[English](./README_EN.md)
+[English](./README.md)
 
 ### 文件结构
 ```
